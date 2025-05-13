@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+I'm Wei Sun from China University of Petroleum, Beijing.
